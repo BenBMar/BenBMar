@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💬 Ask me about **Physics , **Deep learning** , **Computer Vision** and **Blockchain**
+- 💬 Ask me about **Physics** , **Deep learning** , **Computer Vision** and **Blockchain**
 
 ### Languages and Tools:
 
